@@ -1,0 +1,1 @@
+# Simple interest calculator based on certain conditions
